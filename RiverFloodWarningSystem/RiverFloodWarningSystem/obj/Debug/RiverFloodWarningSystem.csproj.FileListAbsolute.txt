@@ -1,0 +1,10 @@
+D:\Programs\C#\RiverFloodWarningSystem\RiverFloodWarningSystem\bin\Debug\RiverFloodWarningSystem.exe.config
+D:\Programs\C#\RiverFloodWarningSystem\RiverFloodWarningSystem\bin\Debug\RiverFloodWarningSystem.exe
+D:\Programs\C#\RiverFloodWarningSystem\RiverFloodWarningSystem\bin\Debug\RiverFloodWarningSystem.pdb
+D:\Programs\C#\RiverFloodWarningSystem\RiverFloodWarningSystem\obj\Debug\RiverFloodWarningSystem.csproj.AssemblyReference.cache
+D:\Programs\C#\RiverFloodWarningSystem\RiverFloodWarningSystem\obj\Debug\RiverFloodWarningSystem.Form1.resources
+D:\Programs\C#\RiverFloodWarningSystem\RiverFloodWarningSystem\obj\Debug\RiverFloodWarningSystem.Properties.Resources.resources
+D:\Programs\C#\RiverFloodWarningSystem\RiverFloodWarningSystem\obj\Debug\RiverFloodWarningSystem.csproj.GenerateResource.cache
+D:\Programs\C#\RiverFloodWarningSystem\RiverFloodWarningSystem\obj\Debug\RiverFloodWarningSystem.csproj.CoreCompileInputs.cache
+D:\Programs\C#\RiverFloodWarningSystem\RiverFloodWarningSystem\obj\Debug\RiverFloodWarningSystem.exe
+D:\Programs\C#\RiverFloodWarningSystem\RiverFloodWarningSystem\obj\Debug\RiverFloodWarningSystem.pdb
